@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iovation.Fraudsource-SDK-Droid", "iovation.Fraudsource-SDK-Droid\iovation.Fraudsource-SDK-Droid.csproj", "{845BD914-87BE-4DFB-8B72-2EAA0C6AA8B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iovation.Fraudsource-SDK-iOS", "iovation.Fraudsource-SDK-iOS\iovation.Fraudsource-SDK-iOS.csproj", "{F3151615-7C69-4073-8245-7BD9D63FAF4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845BD914-87BE-4DFB-8B72-2EAA0C6AA8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845BD914-87BE-4DFB-8B72-2EAA0C6AA8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845BD914-87BE-4DFB-8B72-2EAA0C6AA8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845BD914-87BE-4DFB-8B72-2EAA0C6AA8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3151615-7C69-4073-8245-7BD9D63FAF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3151615-7C69-4073-8245-7BD9D63FAF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3151615-7C69-4073-8245-7BD9D63FAF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3151615-7C69-4073-8245-7BD9D63FAF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
